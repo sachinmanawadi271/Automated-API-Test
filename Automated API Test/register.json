@@ -1,0 +1,21 @@
+{
+  "company": {
+      "company_name": "",
+      "company_phone": "1221312",
+      "company_street": "friedenstrasse",
+      "company_house_number": "67",
+      "company_postcode": "81111",
+      "company_city": "Ulm",
+      "company_country": "Germany",
+      "company_county": "Donau",
+      "company_account_status": 1,
+      "payment_id": 5,
+      "plan_id": 1
+  },
+  "user": {
+      "email": "",
+      "password": "Pa55word",
+      "role_id": 1,
+      "company_id": 1
+  }
+}
